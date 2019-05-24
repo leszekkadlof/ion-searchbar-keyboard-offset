@@ -1,5 +1,7 @@
 {
   "name": "keyboard-offset-issue",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
